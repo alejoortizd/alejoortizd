@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Alejandro Ortiz and...
+
+🌱 I’m currently learning JavaScript and Machine Learning.
+
+`I started in September 2019 to study software engineering with Holberton School and continue with Platzi, to complement and improve the knowledge acquired`
+
 <!--
 **alejoortizd/alejoortizd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
